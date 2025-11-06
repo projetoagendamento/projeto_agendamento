@@ -37,18 +37,13 @@ O site será aberto automaticamente em `http://localhost:3000`
 
 Este projeto utiliza [Conventional Commits](https://www.conventionalcommits.org/). 
 
-**Exemplos:**
-```
-feat: adiciona nova seção de API
-docs: atualiza guia de instalação
-fix: corrige link quebrado na documentação
-```
+Utilize `npm run commit` para criar commits seguindo esse padrão.
 
 ## 🔄 Processo de Pull Request
 
 1. Crie uma branch para suas alterações
 2. Faça commit das mudanças seguindo o padrão Conventional Commits
-3. Abra um Pull Request
+3. Abra um Pull Request e selecione o template adequado
 4. **Aguarde a revisão de pelo menos 1 pessoa**
 5. Após aprovação, faça o merge
 
