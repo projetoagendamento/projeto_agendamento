@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # Planejamento financeiro
 
 ## 1. Contexto e Premissas
