@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 import Tabs from '@theme/Tabs';
@@ -36,7 +36,7 @@ O sucesso depende de satisfazer **AMBOS** os públicos simultaneamente.
         <sup>Fonte: Feito pelos autores</sup>
     </div>
 
-    ### 👥 Perfil do Cliente
+    ### Perfil do Cliente
 
     #### Segmento de Cliente
 
@@ -57,7 +57,7 @@ O sucesso depende de satisfazer **AMBOS** os públicos simultaneamente.
 
     Os benefícios esperados pelos usuários são voltados para uma experiência moderna, sem fricção e com autonomia para gerenciar seus compromissos. Isso inclui a capacidade de agendar a qualquer hora, receber confirmações imediatas e ter acesso a informações claras sobre os serviços oferecidos.
 
-    ### 💎 Mapa de Valor
+    ### Mapa de Valor
 
     O lado esquerdo do canvas representa como nossos produtos e serviços criam valor ao aliviar dores e criar ganhos para o cliente.
 
@@ -71,7 +71,7 @@ O sucesso depende de satisfazer **AMBOS** os públicos simultaneamente.
         <sup>Fonte: Feito pelos autores</sup>
     </div>
 
-    ### 👥 Perfil do Cliente
+    ### Perfil do Cliente
 
     #### Segmento de Cliente
 
@@ -98,7 +98,7 @@ O sucesso depende de satisfazer **AMBOS** os públicos simultaneamente.
 
     Esses desafios impactam diretamente na eficiência do negócio, levando a perdas financeiras e insatisfação dos clientes. O dono do estabelecimento busca soluções que possam automatizar esses processos, proporcionando mais controle e visibilidade sobre a operação, ao mesmo tempo em que reduzem o estresse e o desgaste associados à gestão manual.
 
-    ### 💎 Mapa de Valor
+    ### Mapa de Valor
 
     No quesito "Products & Services", oferecemos uma plataforma web robusta e um bot de WhatsApp integrado, projetados para atender às necessidades específicas do dono do estabelecimento. 
 
